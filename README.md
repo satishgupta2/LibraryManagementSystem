@@ -17,3 +17,7 @@ Library Management System Desktop Application C#(MYSQL)
 
 
 ![Students info I](https://github.com/satishgupta2/LibraryManagementSystem/assets/126942680/7eab428e-540c-4041-b620-7a2b6dd9f2a8)
+![Issue books](https://github.com/satishgupta2/LibraryManagementSystem/assets/126942680/56e6ae49-cd68-4f53-8122-18d7c6106ae3)
+![Return Books](https://github.com/satishgupta2/LibraryManagementSystem/assets/126942680/43176032-e7c4-408f-be7d-3d3bc9540e14)
+![Books return](https://github.com/satishgupta2/LibraryManagementSystem/assets/126942680/6c937bf7-0c00-44ec-b354-37113ce376a6)
+![Complete book details](https://github.com/satishgupta2/LibraryManagementSystem/assets/126942680/ee92b379-6fb8-4296-87c8-6a725a9bdae6)
